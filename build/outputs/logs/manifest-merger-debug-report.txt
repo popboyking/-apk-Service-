@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:2:1-29:12
+	xmlns:android
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:3:5-44
+	android:versionName
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:4:5-28
+		INJECTED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml
+		INJECTED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:7:22-77
+uses-sdk
+ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:11:9-38
+	android:minSdkVersion
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:10:9-34
+application
+ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:13:5-27:19
+	android:label
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:15:9-45
+activity#com.example.serviceactivedemo.MainActivity
+ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\new_sdk_pro\ServiceActiveDemo\AndroidManifest.xml:24:27-74

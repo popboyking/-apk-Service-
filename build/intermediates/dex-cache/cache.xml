@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\new_sdk_pro\ServiceActiveDemo\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="91a1b1aabf740a6f64c2f73f5b0dc6611779ac8b">
+        <dex dex="E:\new_sdk_pro\ServiceActiveDemo\build\intermediates\pre-dexed\debug\android-support-v4-4f7ea6096599a9d566ddea56e29b032cad4f0261.jar" />
+    </item>
+
+</items>

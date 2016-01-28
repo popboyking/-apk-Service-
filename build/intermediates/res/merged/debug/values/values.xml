@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/new_sdk_pro/ServiceActiveDemo/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="activity_bg">#dddddd</color>
+    <color name="add_friend_split">#fff8f9fa</color>
+    <color name="app_backcolor">#fff5f5f5</color>
+    <color name="app_theme_color">#fff3f3f3</color>
+    <color name="black">#000000</color>
+    <color name="black_overlay">#59000000</color>
+    <color name="btn_exchange_recorder_down">#ebaa50</color>
+    <color name="btn_exchange_recorder_normal">#ffffff</color>
+    <color name="btn_exchange_text">#ad6469</color>
+    <color name="btn_text_exchange_recorder_down">#ffffff</color>
+    <color name="btn_text_exchange_recorder_normal">#ad6469</color>
+    <color name="center_config_content">#ff0d0d0d</color>
+    <color name="center_config_title">#ff0d0d0d</color>
+    <color name="color_dialog_btnclick">#fff1f1f3</color>
+    <color name="color_friend_normal">#ffA0A0A0</color>
+    <color name="color_friend_select">#ff000000</color>
+    <color name="config_content">#ff838383</color>
+    <color name="config_title">#ff000000</color>
+    <color name="exchange_paoma_bg">#1cffffff</color>
+    <color name="fogetPass">#4a608d</color>
+    <color name="friend_item_text_little">#bcbabd</color>
+    <color name="gray">#f0eff6</color>
+    <color name="green">#008000</color>
+    <color name="grey_btn_click_down">#ffd0d0d0</color>
+    <color name="grey_btn_click_up">#ffbbbbbb</color>
+    <color name="inputcolor">#ff878787</color>
+    <color name="inputnormalcolor">#ff1e98f0</color>
+    <color name="inputnoticecolor">#ff9d9d9d</color>
+    <color name="item_bg_normal">#f3f3f3</color>
+    <color name="item_bg_press">#e1e1e1</color>
+    <color name="item_line">#d7d7d7</color>
+    <color name="lock_first_bg">#a6000000</color>
+    <color name="lock_line">#36ffffff</color>
+    <color name="lock_second_bg">#36ffffff</color>
+    <color name="lxr_color">#b5c1d9</color>
+    <color name="lxrcolor">#a6a6a6</color>
+    <color name="new_activity_bg">#f4f4f4</color>
+    <color name="new_item_bg_normal">@color/white</color>
+    <color name="new_item_bg_press">@color/new_activity_bg</color>
+    <color name="new_setting_split_line">#c9c9cc</color>
+    <color name="next_hover">#c6c6c6</color>
+    <color name="paint_toast">#ff8e8e8e</color>
+    <color name="red">#FF0000</color>
+    <color name="register">#353535</color>
+    <color name="send_btn_click_down">#ffa0b5dc</color>
+    <color name="send_btn_click_up">#ff6f7b91</color>
+    <color name="send_graffit_btn_down">#ff63c5ed</color>
+    <color name="send_graffit_btn_up">#ff5bb4d8</color>
+    <color name="showcolor">#ff5f5f5f</color>
+    <color name="split_line">#d7d7d7</color>
+    <color name="tabDark">#000000</color>
+    <color name="tabMedium">#2B2B2B</color>
+    <color name="tabTransparent">#10ffffff</color>
+    <color name="textColorHint_input">#88ffffff</color>
+    <color name="text_dark">#000000</color>
+    <color name="text_default">#ffdddddd</color>
+    <color name="text_light">#aaaaaa</color>
+    <color name="theme">#ff00bfff</color>
+    <color name="thrid_login">#353535</color>
+    <color name="thrid_login_line">#eaeaea</color>
+    <color name="titlecolor">#ff249ef6</color>
+    <color name="txlcolor">#b5c1d9</color>
+    <color name="user_center_bg2">#f7f7f7</color>
+    <color name="wallpapers_bg">#dddddd</color>
+    <color name="warntextcolor">#ff555555</color>
+    <color name="white">#ffffffff</color>
+    <!-- From: file:/E:/new_sdk_pro/ServiceActiveDemo/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/E:/new_sdk_pro/ServiceActiveDemo/res/values/colors.xml -->
+    <eat-comment/>
+    <drawable name="paint_btn_hover">#ffdddddd</drawable>
+    <drawable name="paint_btn_normal">#ffffffff</drawable>
+    <!-- From: file:/E:/new_sdk_pro/ServiceActiveDemo/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">服务激活程序</string>
+    <string name="hello_world">服务激活程序</string>
+</resources>
